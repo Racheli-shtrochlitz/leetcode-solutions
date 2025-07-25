@@ -1,19 +1,14 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums) {
-        bool f=false;
         unordered_set<int> seen;
-    int sum = 0;
-    for (int num : nums) {
-    if (num > 0 && seen.insert(num).second) {
-        sum += num;
-        f=true;
-    }
+        int sum = 0;
 
-}
-    if(!f)
-        return *max_element(nums.begin(), nums.end());
+        for (int num : nums) {
+            if (num > 0 && seen.insert(num).second)
+                sum += num;
+        }
 
-        return sum;
+        return sum > 0 ? sum : *max_element(nums.begin(), nums.end());
     }
 };
