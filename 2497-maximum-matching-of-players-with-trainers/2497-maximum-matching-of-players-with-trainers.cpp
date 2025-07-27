@@ -1,28 +1,18 @@
 class Solution {
 public:
     int matchPlayersAndTrainers(vector<int>& players, vector<int>& trainers) {
-        sort(players.begin(), players.end());
-        sort(trainers.begin(), trainers.end());
-        int n1=players.size();
-        int n2=trainers.size();
-        int c=0;
+        std::sort(players.begin(), players.end());
+        std::sort(trainers.begin(), trainers.end());
 
-        int p=0,t=0;
-        while(p<n1 && t<n2){
-            if(players[p]<=trainers[t])
-            {
-                c++;
+        int p = 0, t = 0, count = 0;
+        while (p < players.size() && t < trainers.size()) {
+            if (players[p] <= trainers[t]) {
+                count++;
                 p++;
-                t++;
-                continue;
             }
-
-            else{
-                t++;
-            }
+            t++;
         }
 
-        return c;
-
+        return count;
     }
 };
