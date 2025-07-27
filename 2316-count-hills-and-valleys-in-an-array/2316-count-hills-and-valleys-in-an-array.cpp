@@ -1,23 +1,25 @@
 class Solution {
 public:
     int countHillValley(vector<int>& nums) {
-        vector<int> n;
-        int count=0;
+        int count = 0;
 
-        n.push_back(nums[0]);
-        for (int i = 1; i < nums.size(); ++i) {
-             if (nums[i] != nums[i - 1]) {
-                 n.push_back(nums[i]);
+        for (int i = 1; i < nums.size() - 1; ++i) {
+            // דילוג על כפילויות עוקבות
+            if (nums[i] == nums[i - 1]) continue;
+
+            // מציאת השכן הקודם והשכן הבא השונים מהמספר הנוכחי
+            int prev = i - 1;
+            while (prev > 0 && nums[prev] == nums[i]) prev--;
+            
+            int next = i + 1;
+            while (next < nums.size() && nums[next] == nums[i]) next++;
+
+            if (prev >= 0 && next < nums.size()) {
+                if ((nums[i] > nums[prev] && nums[i] > nums[next]) ||
+                    (nums[i] < nums[prev] && nums[i] < nums[next])) {
+                    count++;
+                }
             }
-        }
-
-        for(int i=1;i<n.size()-1;i++){
-            if(n[i]>n[i-1]&&n[i]>n[i+1])
-                count++;
-            else
-                if(n[i]<n[i-1]&&n[i]<n[i+1])
-                count++;
-
         }
 
         return count;
