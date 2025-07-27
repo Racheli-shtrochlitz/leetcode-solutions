@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
