@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
