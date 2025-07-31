@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [1813-maximum-erasure-value](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Binary Search
 |  |
@@ -80,5 +83,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Game Theory
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
