@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -99,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
