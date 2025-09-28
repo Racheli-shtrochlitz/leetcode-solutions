@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
+| [1018-largest-perimeter-triangle](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0900-reordered-power-of-2](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
