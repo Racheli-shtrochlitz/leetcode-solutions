@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
