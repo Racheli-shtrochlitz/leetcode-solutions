@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0066-plus-one) |
 | [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0066-plus-one) |
 | [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0900-reordered-power-of-2](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
