@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0066-plus-one) |
 | [0828-chalkboard-xor-game](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Racheli-shtrochlitz/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
